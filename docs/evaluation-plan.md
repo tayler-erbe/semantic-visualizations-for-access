@@ -6,6 +6,8 @@
 
 ## Study 1. Four-level accuracy audit (no participants)
 
+Full pre-registered protocol: [evaluation-protocol.md](evaluation-protocol.md).
+
 **Charts.** 100 to 200 charts from the Legislative Intelligence Platform, covering bar, line and stacked charts.
 
 **Conditions.**
