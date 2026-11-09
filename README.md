@@ -20,10 +20,11 @@ Full numbers, limits and sources are in the [brief](brief/index.html) and the [r
 
 | Folder | Contents |
 | --- | --- |
-| [`brief/`](brief/) | *Charts Without Guesswork*, a two-page brief: findings, ChartMuseum charts, comparison, best practice, evidence |
+| [`brief/`](brief/) | *Charts Without Guesswork*, a two-page brief in the Document Intelligence Lab design (same stylesheets as test-ocr-work): findings, ChartMuseum charts, comparison, best practice, evidence |
 | [`research/`](research/) | Catalog of 22 papers by topic, with status and key findings. Papers that allow redistribution are in `research/papers/` |
 | [`docs/evaluation-plan.md`](docs/evaluation-plan.md) | How to measure rules against AI on real charts, level by level |
 | [`scripts/fetch_papers.sh`](scripts/fetch_papers.sh) | Downloads the linked papers and the four-level dataset for local use |
+| [`scripts/build_artifact.py`](scripts/build_artifact.py) | Builds single-file copies of the brief with CSS and JS inlined |
 
 ## Viewing the brief
 
