@@ -4,7 +4,7 @@ If you have the data behind a chart, describe the chart from the data, not from 
 
 I built accessible chart descriptions for the Legislative Intelligence Platform. My first version used AI. I rebuilt it so every description is calculated by rules from the chart's own data, next to an accessible data table and an Excel download. This repo holds the research that backs that decision, the brief I wrote from it, and the plan to measure it on real charts.
 
-**Tayler Erbe** · Data Scientist, AI Solutions Team, University of Illinois System · Document Intelligence Lab
+**Tayler Erbe** · Data Scientist, AI Solutions Team, University of Illinois System · Applied AI Lab
 
 ## What the research shows
 
@@ -20,7 +20,7 @@ Full numbers, limits and sources are in the [brief](brief/index.html) and the [r
 
 | Folder | Contents |
 | --- | --- |
-| [`brief/`](brief/) | *Charts Without Guesswork*, a two-page brief in the Document Intelligence Lab design (same stylesheets as test-ocr-work): findings, ChartMuseum charts, comparison, best practice, evidence |
+| [`brief/`](brief/) | *Charts Without Guesswork*, a two-page brief in the Applied AI Lab design (same stylesheets as test-ocr-work): findings, ChartMuseum charts, comparison, best practice, evidence |
 | [`research/`](research/) | Catalog of 22 papers by topic, with status and key findings. Papers that allow redistribution are in `research/papers/` |
 | [`docs/evaluation-plan.md`](docs/evaluation-plan.md) | How to measure rules against AI on real charts, level by level |
 | [`docs/evaluation-protocol.md`](docs/evaluation-protocol.md) | The pre-registered protocol for the first study: hypotheses, pass bars, conditions, models, scoring |
